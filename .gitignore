@@ -1,16 +1,16 @@
 .DS_Store
 helloworld
 
+CMakeScripts
+cmake-helloworld.build
+cmake-helloworld.xcodeproj
+
 # https://github.com/github/gitignore/blob/master/CMake.gitignore
 CMakeCache.txt
 CMakeFiles
 Makefile
 cmake_install.cmake
 install_manifest.txt
-
-CMakeScripts
-cmake-helloworld.build
-cmake-helloworld.xcodeproj
 
 # https://github.com/github/gitignore/blob/master/C.gitignore
 # Object files
